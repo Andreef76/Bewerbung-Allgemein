@@ -3018,3 +3018,7 @@ a {
 .cid-v41WiY6X4R .card-text {
   color: #000000;
 }
+section.display-7 {
+  display: none !important;
+}
+
